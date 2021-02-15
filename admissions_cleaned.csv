@@ -223,7 +223,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Software Systems Engineering,China,Rejection
 2020,Female,MSc Computational Finance,China,Rejection
 2020,Male,MSc Computational Finance,England,Rejection
-2020,Female,MSc Financial Risk Management,Unknown - not to be used,Rejection
+2020,Female,MSc Financial Risk Management,United Kingdom,Rejection
 2020,Male,MSc Financial Risk Management,China,Rejection
 2020,Male,MSc Machine Learning,China,Rejection
 2020,Female,MSc Computer Science,Germany,Rejection
@@ -407,7 +407,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Financial Risk Management,Singapore,Rejection
 2020,Male,MSc Computer Science,China,None
 2020,Male,MSc Computer Science,China,Rejection
-2020,Male,MSc Information Security,Unknown - not to be used,Rejection
+2020,Male,MSc Information Security,United Kingdom,Rejection
 2020,Female,MSc Computer Science,England,Rejection
 2020,Female,"MSc Disability, Design and Innovation",Switzerland,Rejection
 2020,Female,MSc Computational Finance,China,Unconditional Offer
@@ -468,7 +468,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Financial Risk Management,China,Rejection
 2020,Male,MSc Machine Learning,India,Rejection
 2020,Male,MSc Information Security,Germany,Rejection
-2020,Male,MSc Information Security,Unknown - not to be used,Rejection
+2020,Male,MSc Information Security,United Kingdom,Rejection
 2020,Female,MSc Machine Learning,Sweden,Rejection
 2020,Female,"MSc Computer Graphics, Vision and Imaging",China,Rejection
 2020,Male,MSc Machine Learning,China,Conditional Offer
@@ -656,7 +656,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Computer Science,England,Conditional Offer
 2020,Female,MSc Robotics and Computation,China,Rejection
 2020,Male,MSc Software Systems Engineering,China,Rejection
-2020,Male,MSc Machine Learning,Unknown - not to be used,Rejection
+2020,Male,MSc Machine Learning,United Kingdom,Rejection
 2020,Male,MSc Computer Science,China,Unconditional Offer
 2020,Male,MSc Computational Statistics and Machine Learning,England,Rejection
 2020,Female,MSc Computer Science,Taiwan,Rejection
@@ -771,7 +771,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Software Systems Engineering,China,Rejection
 2020,Female,MSc Computational Finance,China,Rejection
 2020,Female,MSc Machine Learning,England,Rejection
-2020,Male,"MSc Computer Graphics, Vision and Imaging",Unknown - not to be used,Rejection
+2020,Male,"MSc Computer Graphics, Vision and Imaging",United Kingdom,Rejection
 2020,Female,MSc Financial Risk Management,United States of America,Conditional Offer
 2020,Female,"MSc Computer Graphics, Vision and Imaging",China,Rejection
 2020,Female,MSc Computational Finance,India,Conditional Offer
@@ -942,7 +942,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Financial Risk Management,North Macedonia,Rejection
 2020,Male,MSc Computer Science,China,Rejection
 2020,Male,MSc Financial Risk Management,China,Conditional Offer
-2020,Male,MSc Computational Statistics and Machine Learning,Unknown - not to be used,Rejection
+2020,Male,MSc Computational Statistics and Machine Learning,United Kingdom,Rejection
 2020,Male,MSc Computer Science,China,Rejection
 2020,Female,MSc Financial Risk Management,France,None
 2020,Female,MSc Computational Statistics and Machine Learning,Hungary,Rejection
@@ -950,7 +950,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Computer Science,England,Conditional Offer
 2020,Male,MSc Financial Risk Management,China,Rejection
 2020,Male,MSc Computational Finance,Germany,Rejection
-2020,Male,MSc Financial Risk Management,Unknown - not to be used,Rejection
+2020,Male,MSc Financial Risk Management,United Kingdom,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,China,Unconditional Offer
 2020,Male,MSc Financial Risk Management,China,Rejection
 2020,Female,MSc Machine Learning,China,Rejection
@@ -1196,7 +1196,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Machine Learning,China,Rejection
 2020,Male,MSc Machine Learning,Hong Kong,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,Qatar,Rejection
-2020,Male,MSc Financial Risk Management,Unknown - not to be used,Rejection
+2020,Male,MSc Financial Risk Management,United Kingdom,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,Scotland,Rejection
 2020,Female,MSc Computer Science,Greece,Conditional Offer
 2020,Male,MSc Information Security,Hong Kong,Rejection
@@ -1519,7 +1519,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Computer Science,England,Rejection
 2020,Male,MSc Financial Risk Management,England,Conditional Offer
 2020,Male,MSc Computer Science,Greece,Unconditional Offer
-2020,Female,MSc Robotics and Computation,Unknown - not to be used,Rejection
+2020,Female,MSc Robotics and Computation,United Kingdom,Rejection
 2020,Female,MSc Computational Finance,England,Rejection
 2020,Male,MSc Computer Science,China,Rejection
 2020,Male,MSc Robotics and Computation,England,Rejection
@@ -2204,7 +2204,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Machine Learning,England,Rejection
 2020,Female,MSc Software Systems Engineering,China,Rejection
 2020,Female,MSc Web Science and Big Data Analytics,China,Rejection
-2020,Male,MSc Financial Risk Management,Unknown - not to be used,Rejection
+2020,Male,MSc Financial Risk Management,United Kingdom,Rejection
 2020,Male,MSc Machine Learning,England,Rejection
 2020,Male,MSc Information Security,China,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,China,Rejection
@@ -2752,7 +2752,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Software Systems Engineering,China,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,China,Rejection
 2020,Male,MSc Robotics and Computation,China,Rejection
-2020,Female,MSc Financial Risk Management,Unknown - not to be used,Rejection
+2020,Female,MSc Financial Risk Management,United Kingdom,Rejection
 2020,Female,MSc Financial Risk Management,Northern Ireland,Conditional Offer
 2020,Male,MSc Machine Learning,Vietnam (Viet Nam),Rejection
 2020,Male,MSc Software Systems Engineering,China,Rejection
@@ -2979,7 +2979,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Machine Learning,India,Rejection
 2020,Female,MSc Computer Science,China,Rejection
 2020,Male,MSc Computer Science,China,Rejection
-2020,Female,MSc Computer Science,Unknown - not to be used,Rejection
+2020,Female,MSc Computer Science,United Kingdom,Rejection
 2020,Male,MSc Financial Risk Management,China,Rejection
 2020,Male,MSc Financial Risk Management,China,Conditional Offer
 2020,Female,MSc Machine Learning,Bangladesh,Rejection
@@ -3014,7 +3014,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Male,MSc Software Systems Engineering,Greece,Conditional Offer
 2020,Female,MSc Computer Science,China,Conditional Offer
 2020,Male,MSc Robotics and Computation,China,Rejection
-2020,Male,MSc Machine Learning,Unknown - not to be used,Rejection
+2020,Male,MSc Machine Learning,United Kingdom,Rejection
 2020,Male,MSc Financial Risk Management,China,None
 2020,Male,MSc Financial Risk Management,Hungary,Rejection
 2020,Male,MSc Financial Risk Management,England,Conditional Offer
@@ -3187,7 +3187,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Software Systems Engineering,Netherlands,Rejection
 2020,Male,MSc Robotics and Computation,China,Rejection
 2020,Male,MSc Robotics and Computation,China,Conditional Offer
-2020,Male,MSc Computational Statistics and Machine Learning,Unknown - not to be used,Rejection
+2020,Male,MSc Computational Statistics and Machine Learning,United Kingdom,Rejection
 2020,Female,MSc Computational Statistics and Machine Learning,United Arab Emirates,Conditional Offer
 2020,Male,MSc Financial Risk Management,England,Conditional Offer
 2020,Male,MSc Financial Risk Management,Colombia,Rejection
@@ -3365,7 +3365,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Financial Risk Management,China,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,China,Rejection
 2020,Female,MSc Computer Science,China,Rejection
-2020,Female,"MSc Computer Graphics, Vision and Imaging",Unknown - not to be used,Rejection
+2020,Female,"MSc Computer Graphics, Vision and Imaging",United Kingdom,Rejection
 2020,Male,MSc Computational Finance,China,Rejection
 2020,Male,MSc Computer Science,China,None
 2020,Female,MSc Information Security,China,None
@@ -4418,7 +4418,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Computer Science,China,Rejection
 2020,Male,MSc Computer Science,China,Rejection
 2020,Male,MSc Robotics and Computation,Vietnam (Viet Nam),Rejection
-2020,Male,MSc Financial Risk Management,Unknown - not to be used,Conditional Offer
+2020,Male,MSc Financial Risk Management,United Kingdom,Conditional Offer
 2020,Male,MSc Information Security,China,Conditional Offer
 2020,Female,MSc Computer Science,England,Rejection
 2020,Female,MSc Machine Learning,India,Rejection
@@ -4749,7 +4749,7 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Computational Finance,China,Rejection
 2020,Male,MSc Machine Learning,China,Rejection
 2020,Male,MSc Machine Learning,Taiwan,Conditional Offer
-2020,Male,MSc Computational Finance,Unknown - not to be used,Rejection
+2020,Male,MSc Computational Finance,United Kingdom,Rejection
 2020,Male,"MSc Computer Graphics, Vision and Imaging",India,Rejection
 2020,Male,MSc Web Science and Big Data Analytics,China,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,China,Conditional Offer
@@ -4884,14 +4884,14 @@ Year,Gender,Course Name,Domicile,Decision
 2020,Female,MSc Financial Risk Management,England,Rejection
 2020,Male,MSc Computer Science,England,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,China,Rejection
-2020,Male,MSc Financial Risk Management,Unknown - not to be used,Rejection
+2020,Male,MSc Financial Risk Management,United Kingdom,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,China,Rejection
 2020,Male,MSc Machine Learning,China,Rejection
 2020,Female,MSc Machine Learning,China,Rejection
 2020,Male,"MSc Disability, Design and Innovation",Scotland,Rejection
 2020,Female,MSc Financial Risk Management,China,Rejection
 2020,Male,MSc Computational Statistics and Machine Learning,China,Rejection
-2020,Male,MSc Financial Risk Management,Unknown - not to be used,None
+2020,Male,MSc Financial Risk Management,United Kingdom,None
 2020,Male,MSc Computer Science,China,Rejection
 2020,Male,MSc Financial Risk Management,India,None
 2020,Female,MSc Information Security,China,Rejection
@@ -5739,7 +5739,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Male,MSc Machine Learning,China,Rejection
 2019,Female,MSc Financial Risk Management,Hong Kong,Rejection
 2019,Male,MSc Machine Learning,China,Rejection
-2019,Male,MSc Computational Statistics and Machine Learning,Unknown - not to be used,Rejection
+2019,Male,MSc Computational Statistics and Machine Learning,United Kingdom,Rejection
 2019,Female,MSc Machine Learning,China,Rejection
 2019,Male,MSc Machine Learning,China,Conditional Offer
 2019,Male,MSc Computational Statistics and Machine Learning,England,Rejection
@@ -5783,7 +5783,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Male,MSc Computational Statistics and Machine Learning,"Korea, Republic of",Rejection
 2019,Male,MSc Financial Risk Management,China,Rejection
 2019,Male,MSc Robotics and Computation,Romania,Conditional Offer
-2019,Female,MSc Machine Learning,Unknown - not to be used,Conditional Offer
+2019,Female,MSc Machine Learning,United Kingdom,Conditional Offer
 2019,Male,MSc Machine Learning,Japan,Conditional Offer
 2019,Male,MSc Financial Risk Management,England,Rejection
 2019,Female,"MSc Computer Graphics, Vision and Imaging",China,Rejection
@@ -6063,7 +6063,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Male,MSc Financial Risk Management,Ireland,Rejection
 2019,Female,MSc Computer Science,China,Rejection
 2019,Female,MSc Web Science and Big Data Analytics,China,Rejection
-2019,Male,"MSc Computer Graphics, Vision and Imaging",Unknown - not to be used,Conditional Offer
+2019,Male,"MSc Computer Graphics, Vision and Imaging",United Kingdom,Conditional Offer
 2019,Male,MSc Financial Risk Management,Belgium,None
 2019,Male,MSc Machine Learning,England,Conditional Offer
 2019,Male,MSc Financial Risk Management,England,Rejection
@@ -6090,7 +6090,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Male,MSc Machine Learning,China,Rejection
 2019,Female,"MSc Computer Graphics, Vision and Imaging",China,Rejection
 2019,Male,MSc Robotics and Computation,China,Rejection
-2019,Male,MSc Information Security,Unknown - not to be used,Conditional Offer
+2019,Male,MSc Information Security,United Kingdom,Conditional Offer
 2019,Female,MSc Financial Risk Management,China,Rejection
 2019,Female,MSc Financial Risk Management,China,Unconditional Offer
 2019,Male,"MSc Computer Graphics, Vision and Imaging",Germany,Conditional Offer
@@ -6373,7 +6373,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Male,MSc Computer Science,England,Rejection
 2019,Female,MSc Computer Science,Japan,Unconditional Offer
 2019,Male,MSc Machine Learning,England,Rejection
-2019,Male,MSc Computational Statistics and Machine Learning,Unknown - not to be used,Rejection
+2019,Male,MSc Computational Statistics and Machine Learning,United Kingdom,Rejection
 2019,Male,MSc Machine Learning,England,Rejection
 2019,Male,MSc Software Systems Engineering,England,Rejection
 2019,Female,MSc Robotics and Computation,China,Rejection
@@ -6661,7 +6661,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Female,MSc Financial Risk Management,Brazil,Rejection
 2019,Male,MSc Machine Learning,Malaysia,Rejection
 2019,Male,MSc Computational Finance,England,Conditional Offer
-2019,Male,MSc Machine Learning,Unknown - not to be used,Conditional Offer
+2019,Male,MSc Machine Learning,United Kingdom,Conditional Offer
 2019,Male,MSc Software Systems Engineering,China,Rejection
 2019,Male,MSc Computational Statistics and Machine Learning,Hong Kong,Conditional Offer
 2019,Male,"MSc Computer Graphics, Vision and Imaging",China,Rejection
@@ -7240,7 +7240,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Female,MSc Robotics and Computation,China,Rejection
 2019,Male,MSc Software Systems Engineering,Bolivia,Rejection
 2019,Female,MSc Financial Risk Management,China,None
-2019,Female,MSc Computational Statistics and Machine Learning,Unknown - not to be used,Rejection
+2019,Female,MSc Computational Statistics and Machine Learning,United Kingdom,Rejection
 2019,Female,MSc Robotics and Computation,China,Rejection
 2019,Female,MSc Computational Finance,China,Rejection
 2019,Female,MSc Software Systems Engineering,England,Rejection
@@ -7949,7 +7949,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Male,MSc Information Security,China,Unconditional Offer
 2019,Male,"MSc Computer Graphics, Vision and Imaging",China,Conditional Offer
 2019,Female,MSc Machine Learning,England,Rejection
-2019,Male,MSc Software Systems Engineering,Unknown - not to be used,Rejection
+2019,Male,MSc Software Systems Engineering,United Kingdom,Rejection
 2019,Male,MSc Machine Learning,China,None
 2019,Male,MSc Computational Statistics and Machine Learning,United States of America,Rejection
 2019,Female,MSc Financial Risk Management,Scotland,Rejection
@@ -8349,7 +8349,7 @@ Year,Gender,Course Name,Domicile,Decision
 2019,Male,MSc Machine Learning,"Korea, Republic of",Conditional Offer
 2019,Male,MSc Robotics and Computation,England,Conditional Offer
 2019,Male,MSc Financial Risk Management,Scotland,None
-2019,Male,MSc Financial Risk Management,Unknown - not to be used,Rejection
+2019,Male,MSc Financial Risk Management,United Kingdom,Rejection
 2019,Male,MSc Machine Learning,India,Rejection
 2019,Male,MSc Financial Risk Management,China,Rejection
 2019,Male,MSc Information Security,China,Conditional Offer
@@ -9121,7 +9121,7 @@ Year,Gender,Course Name,Domicile,Decision
 2018,Male,MSc Computational Finance,Macao,Rejection
 2018,Male,MSc Computer Science,England,Rejection
 2018,Male,MSc Computer Science,Singapore,Conditional Offer
-2018,Male,"MSc Computer Graphics, Vision and Imaging",Unknown - not to be used,Rejection
+2018,Male,"MSc Computer Graphics, Vision and Imaging",United Kingdom,Rejection
 2018,Male,MSc Financial Risk Management,France,Rejection
 2018,Female,MSc Financial Risk Management,India,Rejection
 2018,Female,"MSc Computer Graphics, Vision and Imaging",Germany,Rejection
@@ -9949,7 +9949,7 @@ Year,Gender,Course Name,Domicile,Decision
 2018,Female,MSc Computer Science,China,None
 2018,Female,MSc Computational Statistics and Machine Learning,Taiwan,Rejection
 2018,Female,MSc Machine Learning,China,Conditional Offer
-2018,Male,MSc Robotics and Computation,Unknown - not to be used,Rejection
+2018,Male,MSc Robotics and Computation,United Kingdom,Rejection
 2018,Female,MSc Financial Risk Management,China,Rejection
 2018,Male,MSc Financial Risk Management,England,Rejection
 2018,Female,MSc Computer Science,China,Rejection
@@ -11660,7 +11660,7 @@ Year,Gender,Course Name,Domicile,Decision
 2018,Male,MSc Computer Science,Thailand,Conditional Offer
 2018,Female,MSc Computer Science,England,Rejection
 2018,Female,MSc Robotics and Computation,India,Unconditional Offer
-2018,Male,MSc Machine Learning,Unknown - not to be used,Rejection
+2018,Male,MSc Machine Learning,United Kingdom,Rejection
 2018,Female,"MSc Computer Graphics, Vision and Imaging",England,Rejection
 2018,Male,MSc Computational Statistics and Machine Learning,China,Rejection
 2018,Male,MSc Machine Learning,England,Conditional Offer
